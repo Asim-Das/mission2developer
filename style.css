@@ -14,6 +14,12 @@ h1{
     font-size: 60px;
     padding-left: 20px;
 }
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
 .text-highlight{
     color: orange;
 }
@@ -45,6 +51,9 @@ h1{
 .my-expection img{
     width: 70%;
 }
+.mission-2022 h1{
+    text-align: center;
+}
 #my-mission{
     background-color: rgba(79, 157, 166, 0.1);
 }
@@ -54,17 +63,17 @@ h1{
 #my-goals{
 background-color: #FFF4D6;
 }
-footer{
-    height: 150px;
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding-top: 50px;    
-}
 .comment{
     width: 20%;
     margin-left: 5%;
 }
 .comment img{
     width: 100%;
+}
+footer{
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;    
 }
